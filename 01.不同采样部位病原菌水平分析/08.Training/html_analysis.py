@@ -11,5 +11,3 @@ for idt,ptgs in patientsID.items():
     if idt in dataids:
         os.chdir(idt)
         temp = [j for i in [pd.read_table(i,encoding='gbk',engine='python')['SDSMRN'].tolist() for i in os.listdir() if not i.endswith('xlsx')] for j in i]
-        print(temp)
-        exit()
