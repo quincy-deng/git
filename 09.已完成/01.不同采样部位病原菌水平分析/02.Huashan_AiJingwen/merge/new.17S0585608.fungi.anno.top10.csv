@@ -1,0 +1,6 @@
+#Sample,Species,Chinese,Coverage,CovRate,Depth,Abs_Abu,Re_Abu,Genus,GenusCh,Genus_Abs_Abu,Genus_Re_Abu,MRN,SMRN,SMRNG,SDCOV,SDdepth,SDMRN,SDSMRN,SDSMRNG,ID
+17S0585608,Fusarium_graminearum,ºÌ¹ÈÁ­µ¶¾ú,140/36358997,0.00039,1,0.0277,4.20,Fusarium,Á­µ¶¾úÊô,0.0277,4.20,1,1,1,0.0003,1,1,1,1,id|08018014|ref|FUNGI_0866848|
+17S0585608,Lachancea_waltii,-,84/10919232,0.00077,1,0.0916,13.87,Lachancea,Lachancea,0.0916,13.87,1,0,0,0.0005,1,1,0,0,id|08024947|ref|FUNGI_0085592|
+17S0585608,Phanerochaete_chrysosporium,»ÆæßÔ­Ã«Æ½¸ï¾ú,277/29855776,0.00093,1.1,0.2011,30.46,Phanerochaete,Æ½¸ï¾úÊô,0.2011,30.46,6,0,0,0.0006,1,4,0,0,id|00238214|ref|FUNGI_0235442|
+17S0585608,Saccharomyces_mikatae,Ñ¿Ö³½ÍÄ¸,56/11486721,0.00049,1,0.0872,13.21,Saccharomyces,½ÍÄ¸¾úÊô,0.3399,51.48,1,0,0,0.0003,1,1,0,0,id|04831707|ref|FUNGI_0025986|
+17S0585608,Saccharomyces_paradoxus,ÆæÒì½ÍÄ¸,154/11880927,0.0013,2,0.2527,38.27,Saccharomyces,½ÍÄ¸¾úÊô,0.3399,51.48,3,0,0,0.0009,1.38,2,0,0,id|02376355|ref|FUNGI_0850947|

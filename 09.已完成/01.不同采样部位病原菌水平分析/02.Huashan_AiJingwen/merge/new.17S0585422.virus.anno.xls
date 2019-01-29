@@ -1,0 +1,15 @@
+#Sample	Species	Chinese	Coverage	Cov_Rate	Depth	MRN	SMRN	SDCOV	SDdepth	SDMRN	SDSMRN	GI	ID
+17S0585422	Shamonda_virus	-	149/12124	1.2	5	6	6	0.4903	2.04	2	2	id|07631923|ref|VIR_0227032|
+17S0585422	Simbu_virus	西姆布病毒	159/12192	1.3	2.8	3	2	0.5312	1.14	1	1	id|00079408|ref|VIR_0176566|
+17S0585422	Paramecium_bursaria_Chlorella_virus_FR483	小球藻病毒FR483	133/321240	0.041	1.4	2	2	0.0168	1	1	1	id|05218383|ref|VIR_0012569|
+17S0585422	Human_herpesvirus_1	人类疱疹病毒1型	17880/152261	12	1.1	168	146	4.9030	1	69	60	id|08088427|ref|VIR_0102710|
+17S0585422	Adoxophyes_orana_nucleopolyhedrovirus	苹果小卷叶蛾核型多角体病毒	67/111724	0.06	1	1	0	0.0245	1	0	0	id|07775125|ref|VIR_0424001|
+17S0585422	Human_herpesvirus_2	人类疱疹病毒2型	363/154746	0.23	1	3	1	0.0940	1	1	0	id|04139876|ref|VIR_0629597|
+17S0585422	Human_herpesvirus_4	人类疱疹病毒4型	4201/171823	2.4	1	34	1	0.9806	1	14	0	id|08504296|ref|VIR_0146969|
+17S0585422	Human_herpesvirus_4_type_2	人类疱疹病毒4型	4999/172764	2.9	1	39	4	1.1849	1	16	2	id|05960209|ref|VIR_0422596|
+17S0585422	Human_herpesvirus_5	人类疱疹病毒5型	1544/235646	0.66	1	12	12	0.2697	1	5	5	id|00316614|ref|VIR_0573832|
+17S0585422	Pandoravirus_dulcis	甜潘多拉病毒	69/1908524	0.0036	1	1	0	0.0015	1	0	0	id|06961515|ref|VIR_0312510|
+17S0585422	Porcine_endogenous_retrovirus_E	猪内源逆转录病毒E	257/8072	3.2	1	2	2	1.3075	1	1	1	id|08787713|ref|VIR_0730587|
+17S0585422	Torque_teno_virus_15	细环病毒15型	423/3787	11	1	3	2	4.4944	1	1	1	id|06932116|ref|VIR_0644025|
+17S0585422	Torque_teno_virus_3	细环病毒3型	150/3748	4	1	1	1	1.6343	1	0	0	id|04983128|ref|VIR_0362886|
+17S0585422	Torque_teno_virus_8	细环病毒8型	159/3790	4.2	1	1	1	1.7160	1	0	0	id|09372993|ref|VIR_0170536|

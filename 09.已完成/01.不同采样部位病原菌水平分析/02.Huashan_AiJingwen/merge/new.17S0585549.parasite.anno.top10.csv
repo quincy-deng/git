@@ -1,0 +1,4 @@
+#Sample,Species,Chinese,Coverage,CovRate,Depth,Abs_Abu,Re_Abu,Genus,GenusCh,Genus_Abs_Abu,Genus_Re_Abu,MRN,SMRN,SMRNG,SDCOV,SDdepth,SDMRN,SDSMRN,SDSMRNG,ID
+17S0585549,Sarcocystis_neurona,神经肉孢子虫,142/124863955,0.00011,1,0.0081,12.27,Sarcocystis,肉孢子虫属,0.0081,12.27,1,0,0,0.0002,1.60,2,0,0,id|09681635|ref|PARA_0523875|
+17S0585549,Trichuris_trichiura,毛首鞭形线虫,334/66817909,0.0005,1.2,0.0449,68.03,Trichuris,毛首鞭虫属,0.0449,68.03,3,0,0,0.0008,1.92,5,0,0,id|00878515|ref|PARA_0972675|
+17S0585549,Wuchereria_bancrofti,班氏吴策线虫,82/77159569,0.00011,1,0.0130,19.70,Wuchereria,吴策线虫属,0.013,19.70,1,0,0,0.0002,1.60,2,0,0,id|00162590|ref|PARA_0771300|

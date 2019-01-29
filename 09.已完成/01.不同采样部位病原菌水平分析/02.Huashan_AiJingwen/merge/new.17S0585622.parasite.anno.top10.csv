@@ -1,0 +1,9 @@
+#Sample,Species,Chinese,Coverage,CovRate,Depth,Abs_Abu,Re_Abu,Genus,GenusCh,Genus_Abs_Abu,Genus_Re_Abu,MRN,SMRN,SMRNG,SDCOV,SDdepth,SDMRN,SDSMRN,SDSMRNG,ID
+17S0585622,Ancylostoma_duodenale,十二指肠钩口线虫,82/168040659,4.9e-05,1,0.0060,0.95,Ancylostoma,钩口线虫属,0.006,0.95,1,0,0,0.0000,1,0,0,0,id|00090900|ref|PARA_0883549|
+17S0585622,Brugia_malayi,马来布鲁线虫,92/83260397,0.00011,1,0.0120,1.90,Brugia,布鲁格丝虫属,0.012,1.90,1,0,0,0.0000,1,0,0,0,id|00065197|ref|PARA_0987982|
+17S0585622,Enterobius_vermicularissta,蠕形住肠线虫,49/111762754,4.4e-05,1.8,0.0185,2.93,Enterobius,蛲虫属,0.0185,2.93,2,1,1,0.0000,1,1,0,0,id|00051620|ref|PARA_0954579|
+17S0585622,Loa_Loa,罗阿罗阿丝虫,149/30335211,0.00049,1,0.0337,5.33,Loa,Loa,0.0337,5.33,1,1,1,0.0002,1,0,0,0,id|04679125|ref|PARA_0464377|
+17S0585622,Sarcocystis_neurona,神经肉孢子虫,208/124863955,0.00017,1.6,0.0244,3.86,Sarcocystis,肉孢子虫属,0.0244,3.86,3,0,0,0.0001,1,1,0,0,id|09681635|ref|PARA_0523875|
+17S0585622,Trichinella_papuae,巴布亚旋毛虫,281/46127921,0.00061,1,0.0867,13.72,Trichinella,旋毛线虫属,0.103,16.30,4,0,0,0.0002,1,2,0,0,id|08036445|ref|PARA_0736384|
+17S0585622,Trichinella_spiralis,旋毛形线虫,38/61179926,6.2e-05,1,0.0163,2.58,Trichinella,旋毛线虫属,0.103,16.30,1,0,0,0.0000,1,0,0,0,id|04016420|ref|PARA_0808000|
+17S0585622,Trichuris_trichiura,毛首鞭形线虫,3465/66817909,0.0052,1.1,0.4342,68.72,Trichuris,毛首鞭虫属,0.4342,68.72,29,1,1,0.0021,1,12,0,0,id|00878515|ref|PARA_0972675|

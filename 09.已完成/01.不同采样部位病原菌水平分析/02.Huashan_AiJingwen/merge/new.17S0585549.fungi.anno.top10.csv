@@ -1,0 +1,5 @@
+#Sample,Species,Chinese,Coverage,CovRate,Depth,Abs_Abu,Re_Abu,Genus,GenusCh,Genus_Abs_Abu,Genus_Re_Abu,MRN,SMRN,SMRNG,SDCOV,SDdepth,SDMRN,SDSMRN,SDSMRNG,ID
+17S0585549,Malassezia_pachydermatis,厚皮马拉色菌,353/8129607,0.0043,1,0.3690,60.52,Malassezia,马拉色菌属,0.4817,79.01,3,2,4,0.0069,1.60,5,3,6,id|05566811|ref|FUNGI_0124095|
+17S0585549,Malassezia_globosa,球形马拉色菌,143/8872979,0.0016,1,0.1127,18.48,Malassezia,马拉色菌属,0.4817,79.01,1,0,4,0.0026,1.60,2,0,6,id|04621438|ref|FUNGI_0812440|
+17S0585549,Neosartorya_fischeri,费氏新萨托菌,234/31774387,0.00074,1.5,0.0945,15.50,Neosartorya,新萨托菌属,0.0945,15.50,3,0,0,0.0012,2.41,5,0,0,id|05882047|ref|FUNGI_0566147|
+17S0585549,Phanerochaete_chrysosporium,黄孢原毛平革菌,56/29855776,0.00019,1,0.0335,5.49,Phanerochaete,平革菌属,0.0335,5.49,1,0,0,0.0003,1.60,2,0,0,id|00238214|ref|FUNGI_0235442|

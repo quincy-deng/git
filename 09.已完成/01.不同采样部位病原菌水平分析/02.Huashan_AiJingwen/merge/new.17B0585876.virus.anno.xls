@@ -1,0 +1,13 @@
+#Sample	Species	Chinese	Coverage	Cov_Rate	CR_range	Depth	MRN	MRN_range	SMRN	SMRN_range	SDCOV	SDdepth	SDMRN	SDSMRN	GI	ID
+17B0585876	Simbu_virus	西姆布病毒	164/12192	1.3	0.2850-0.3150	4.3	6	0-3	3	0-4	0.6080	2.01	3	1	id|00079408|ref|VIR_0176566|
+17B0585876	Shamonda_virus	-	155/12124	1.3	0.2800-0.3500	8.8	10	0-9	10	0-6	0.6080	4.12	5	5	id|07631923|ref|VIR_0227032|
+17B0585876	Human_herpesvirus_4	人类疱疹病毒4型	607/171823	0.35	0-0	1	5	0-0	0	0-0	0.1637	1	2	0	id|08504296|ref|VIR_0146969|
+17B0585876	Human_herpesvirus_4_type_2	人类疱疹病毒4型	673/172764	0.39	0-0	1	5	0-0	0	0-0	0.1824	1	2	0	id|05960209|ref|VIR_0422596|
+17B0585876	Human_herpesvirus_6B	人类疱疹病毒6B	133/162114	0.082	0-0	1	1	0-0	1	0-0	0.0383	1	0	0	id|05253833|ref|VIR_0125570|
+17B0585876	Impatiens_necrotic_spot_virus	凤仙花坏死斑病毒	175/16760	1	0-0	1	1	0-0	0	0-0	0.4677	1	0	0	id|04824686|ref|VIR_0619760|
+17B0585876	Invertebrate_iridescent_virus_6	无脊椎动物虹彩病毒6型	67/212482	0.032	0-0	1	1	0-0	0	0-0	0.0150	1	0	0	id|01550428|ref|VIR_0998985|
+17B0585876	Magnaporthe_oryzae_chrysovirus_1	稻瘟病菌金色病毒1型	162/12951	1.3	0-0	1	1	0-0	0	0-0	0.6080	1	0	0	id|08325144|ref|VIR_0527769|
+17B0585876	Megavirus_lba	-	387/1230522	0.031	0-0	1	3	0-0	3	0-0	0.0145	1	1	1	id|01286194|ref|VIR_0941545|
+17B0585876	Melon_yellow_spot_virus	甜瓜黄斑病毒	153/16985	0.9	0-0	1	1	0-0	0	0-0	0.4209	1	0	0	id|04489307|ref|VIR_0759450|
+17B0585876	Pandoravirus_dulcis	甜潘多拉病毒	121/1908524	0.0063	0-0	1	1	0-0	0	0-0	0.0029	1	0	0	id|06961515|ref|VIR_0312510|
+17B0585876	Penicillium_chrysogenum_virus	产黄青霉病毒	77/12670	0.61	0-0	1	1	0-0	0	0-0	0.2853	1	0	0	id|09607233|ref|VIR_0193703|

@@ -1,0 +1,3 @@
+#Sample,Species,Chinese,Coverage,CovRate,Depth,Abs_Abu,Re_Abu,Genus,GenusCh,Genus_Abs_Abu,Genus_Re_Abu,MRN,SMRN,SMRNG,SDCOV,SDdepth,SDMRN,SDSMRN,SDSMRNG,ID
+17P0585905,Human_herpesvirus_4,»À¿‡Â’Ó≤°∂æ4–Õ(EBV),151/172764,0.087,1,5.7882,87.69,-,-,-,-,1,1,-,0.0581,1,1,1,-,id|05960209|ref|VIR_0422596|
+17P0585905,Megavirus_lba,-,68/1230522,0.0055,1,0.8127,12.31,-,-,-,-,1,0,-,0.0037,1,1,0,-,id|01286194|ref|VIR_0941545|

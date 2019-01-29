@@ -1,0 +1,9 @@
+#Sample,Species,Chinese,Coverage,CovRate,Depth,Abs_Abu,Re_Abu,Genus,GenusCh,Genus_Abs_Abu,Genus_Re_Abu,MRN,SMRN,SMRNG,SDCOV,SDdepth,SDMRN,SDSMRN,SDSMRNG,ID
+17S0585622,Phanerochaete_chrysosporium,黄孢原毛平革菌,1924/29855776,0.0064,1.9,1.2734,29.26,Phanerochaete,平革菌属,1.2734,29.26,38,8,8,0.0026,1,15,3,3,id|00238214|ref|FUNGI_0235442|
+17S0585622,Saccharomyces_paradoxus,奇异酵母,583/11880927,0.0049,3.9,2.0215,46.46,Saccharomyces,酵母菌属,2.2732,52.24,24,3,5,0.0020,1.55,10,1,2,id|02376355|ref|FUNGI_0850947|
+17S0585622,Lachancea_waltii,-,274/10919232,0.0025,1.6,0.4582,10.53,Lachancea,Lachancea,0.4582,10.53,5,0,0,0.0010,1,2,0,0,id|08024947|ref|FUNGI_0085592|
+17S0585622,Malassezia_globosa,球形马拉色菌,117/8872979,0.0013,1,0.1127,2.59,Malassezia,马拉色菌属,0.1127,2.59,1,1,1,0.0005,1,0,0,0,id|04621438|ref|FUNGI_0812440|
+17S0585622,Mucor_irregularis,不规则毛霉菌,139/22338169,0.00062,1,0.0449,1.03,Mucor,毛霉菌属,0.0449,1.03,1,0,0,0.0002,1,0,0,0,id|09401140|ref|FUNGI_0213912|
+17S0585622,Neosartorya_fischeri,费氏新萨托菌,302/31774387,0.00095,2.2,0.1889,4.34,Neosartorya,新萨托菌属,0.1889,4.34,6,0,0,0.0004,1,2,0,0,id|05882047|ref|FUNGI_0566147|
+17S0585622,Saccharomyces_cerevisiae,酿酒酵母,265/12157265,0.0022,1,0.1645,3.78,Saccharomyces,酵母菌属,2.2732,52.24,2,1,5,0.0009,1,1,0,2,id|01606067|ref|FUNGI_0623366|
+17S0585622,Saccharomyces_mikatae,芽殖酵母,45/11486721,0.00039,1,0.0872,2.00,Saccharomyces,酵母菌属,2.2732,52.24,1,0,5,0.0002,1,0,0,2,id|04831707|ref|FUNGI_0025986|

@@ -1,0 +1,7 @@
+#Sample,Species,Chinese,Coverage,CovRate,Depth,Abs_Abu,Re_Abu,Genus,GenusCh,Genus_Abs_Abu,Genus_Re_Abu,MRN,SMRN,SMRNG,SDCOV,SDdepth,SDMRN,SDSMRN,SDSMRNG,ID
+17S0585608,Clonorchis_sinensis,华支睾吸虫,65/543412348,1.2e-05,1,0.0018,0.75,Clonorchis,支睾吸虫属,0.0018,0.75,1,0,0,0.0000,1,1,0,0,id|07727997|ref|PARA_0073067|
+17S0585608,Enterobius_vermicularissta,蠕形住肠线虫,57/111762754,5.1e-05,2.5,0.0277,11.59,Enterobius,蛲虫属,0.0277,11.59,3,0,0,0.0000,1.72,2,0,0,id|00051620|ref|PARA_0954579|
+17S0585608,Taenia_asiatica,亚洲带绦虫,76/151825899,5e-05,1,0.0112,4.69,Taenia,带绦虫属,0.0112,4.69,1,0,0,0.0000,1,1,0,0,id|06510101|ref|PARA_0346278|
+17S0585608,Trichinella_britovi,布氏旋毛虫,157/48846959,0.00032,1,0.0205,8.58,Trichinella,旋毛线虫属,0.1723,72.12,1,0,0,0.0002,1,1,0,0,id|07537502|ref|PARA_0236430|
+17S0585608,Trichinella_papuae,巴布亚旋毛虫,309/46127921,0.00067,1.2,0.1518,63.54,Trichinella,旋毛线虫属,0.1723,72.12,7,0,0,0.0005,1,5,0,0,id|08036445|ref|PARA_0736384|
+17S0585608,Wuchereria_bancrofti,班氏吴策线虫,88/77159569,0.00011,1.8,0.0259,10.84,Wuchereria,吴策线虫属,0.0259,10.84,2,0,0,0.0001,1.24,1,0,0,id|00162590|ref|PARA_0771300|

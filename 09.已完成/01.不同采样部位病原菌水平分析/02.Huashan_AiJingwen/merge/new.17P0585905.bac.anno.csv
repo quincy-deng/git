@@ -1,0 +1,14 @@
+#Sample,Species,Chinese,Coverage,CovRate,Depth,Abs_Abu,Re_Abu,Genus,GenusCh,Genus_Abs_Abu,Genus_Re_Abu,MRN,SMRN,SMRNG,SDCOV,SDdepth,SDMRN,SDSMRN,SDSMRNG,Gram,ID
+17P0585905,Acidovorax_KKS102,食酸菌*,123/5196935,0.0024,1,0.1924,4.56,Acidovorax,食酸菌属,0.1924,4.56,1,1,1,0.0016,1,1,1,1,G-,id|09678632|ref|BAC_0561432|
+17P0585905,Corynebacterium_callunae,棒状杆菌*,142/2839551,0.005,1,0.3522,8.34,Corynebacterium,棒杆菌属,0.3522,8.34,1,1,1,0.0033,1,1,1,1,G+,id|04984883|ref|BAC_0412368|
+17P0585905,Paludibacter_propionicigenes,-,149/3685504,0.004,1,0.2713,6.42,Paludibacter,Paludibacter,0.2713,6.42,1,1,1,0.0027,1,1,1,1,G-,id|02048049|ref|BAC_0799474|
+17P0585905,Propionibacterium_acnes,痤疮丙酸杆菌,264/2560282,0.01,1,0.7812,18.5,Propionibacterium,丙酸杆菌属,0.7812,18.5,2,2,2,0.0067,1,1,1,1,G+,id|08674738|ref|BAC_0164449|
+17P0585905,Ralstonia_solanacearum,青枯罗尔斯顿菌,136/3716413,0.0037,1,0.2691,6.37,Ralstonia,罗尔斯顿菌属,0.2691,6.37,1,1,1,0.0025,1,1,1,1,G-,id|02536164|ref|BAC_0769927|
+17P0585905,Agromonas_oligotrophica,寡养土壤单胞菌,58/8264165,0.0007,1,0.121,2.87,Bradyrhizobium,慢生根瘤菌属,0.2296,5.44,1,0,1,0.0005,1,1,0,1,G-,id|05374044|ref|BAC_0092838|
+17P0585905,Bradyrhizobium_japonicum,日本慢生根瘤菌,131/9207384,0.0014,1,0.1086,2.57,Bradyrhizobium,慢生根瘤菌属,0.2296,5.44,1,0,1,0.0009,1,1,0,1,G-,id|07814469|ref|BAC_0152825|
+17P0585905,Rhodococcus_erythropolis,红城红球菌,128/6516310,0.002,1,0.1535,3.63,Rhodococcus,红球菌属,0.1535,3.63,1,0,1,0.0013,1,1,0,1,G+,id|01931926|ref|BAC_0881680|
+17P0585905,Borrelia_burgdorferi,伯氏疏螺旋体,45/922801,0.0049,1,1.0837,25.66,Borrelia,疏螺旋体属,1.0837,25.66,1,0,0,0.0033,1,1,0,0,G-,id|05548335|ref|BAC_0746747|
+17P0585905,Delftia_acidovorans,食酸代尔夫特菌,85/6767514,0.0013,1,0.1478,3.5,Delftia,代尔夫特菌属,0.1478,3.5,1,0,0,0.0009,1,1,0,0,G-,id|00447934|ref|BAC_0927149|
+17P0585905,Mesorhizobium_opportunistum,机会中慢生根瘤菌,91/6884444,0.0013,1,0.1453,3.44,Mesorhizobium,中慢生根瘤菌属,0.1453,3.44,1,0,0,0.0009,1,1,0,0,G-,id|00528062|ref|BAC_0524999|
+17P0585905,Ramlibacter_tataouinensis,-,142/4070193,0.0035,1,0.2457,5.82,Ramlibacter,Ramlibacter,0.2457,5.82,1,0,0,0.0023,1,1,0,0,G-,id|09850332|ref|BAC_0865622|
+17P0585905,Rhizobium_IRBG74,根瘤菌*,86/2844565,0.003,1,0.3515,8.32,Rhizobium,根瘤菌属,0.3515,8.32,1,0,0,0.002,1,1,0,0,G-,id|05684744|ref|BAC_0843075|
