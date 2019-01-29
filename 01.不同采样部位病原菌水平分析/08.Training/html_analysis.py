@@ -7,10 +7,6 @@ table=r'D:\0125\08.resultdata\a.华山医院给出NGS结果\12.5重新整理中�
 sheets=xlrd.open_workbook(table).sheet_names()
 # row[0][:10]:{i.split(',')[1]:i.split(',')[0] for i in row[1].split(';')} 
 patientsID={row[0][:10]:{i.split(',')[1]:i.split(',')[0] for i in row[1].split(';') if len(i.split(','))>1} for sheet in sheets[:-1] for index,row in pd.read_excel(table,sheet_name=sheet)[['标本编号','new_NGS_result']].iterrows() if not row[1].startswith('无')}
-print(patientsID)
-os.chdir(r'D:\0125\华山医院整理后病人数据2.rankheader')
-dataids = {i.split('_')[1]:i for i in os.listdir()}
-exit()
 for idt,ptgs in patientsID.items():
     if idt in dataids:
         os.chdir(idt)
