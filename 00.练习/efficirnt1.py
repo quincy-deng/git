@@ -16,7 +16,6 @@ def Obtain_Mycobacterium(log):
     # for i,j in zip(log_df['sampleid'],log_df['logging']):
     #     if isinstance(j,str):
     #         if re.search('Mycobacterium',j):
-    #             yield i
 Obtain_Mycobacterium(log)
 def Obtain_filelist(data):
     files = {}
